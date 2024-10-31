@@ -1,0 +1,14 @@
+Capaian Saya Dalam Tahun 2024
+- Memulai menjadi Web Developer
+- Belajar menjadi seorang Front End Web Developer
+  + HTML
+  + CSS
+  + Framework Bootsrap
+  + Framework Tailwind
+  + Membuat website portofolio menggunakan HTML dan CSS
+  + Membuat website portofolio menggunakan Boostrap
+  + Membuat website portofolio menggunakan Tailwind
+  + Membuat website Profil Kab. Lamongan dengan HTML dan CSS
+  + Membuat website Travel Agency dengan HTML dan CSS
+- Belajar Git dan Github
+- Belajar IOT juga guys, ditunggu yah COMING SOON
