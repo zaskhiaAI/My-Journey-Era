@@ -1,4 +1,6 @@
-Capaian Saya Dalam Tahun 2024
+Capaian Saya Dalam Tahun 2025
+- Fundamental UI/UX Designer
+- Fundamental Struktur Data
 - Memulai menjadi Web Developer
 - Belajar menjadi seorang Front End Web Developer
   + HTML
